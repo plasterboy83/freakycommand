@@ -1,3 +1,4 @@
-require(8875611672).freaky(player.Name)
+print("whydoesnt dis work")
+require(8875611672).freaky(plr.Name)
 print("contrast time")
 print("enjoying the fog?")
