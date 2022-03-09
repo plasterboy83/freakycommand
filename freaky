@@ -1,4 +1,15 @@
+--Instances
+local ColorCorrection = Instance.new("ColorCorrectionEffect")
+
+--Proporties
+ColorCorrection.Parent = game.Lighting
+ColorCorrection.Contrast = 15
+
+--Fog Starter
+game.Lighting.FogEnd = 100
+
+--Prints
 print("whydoesnt dis work")
 require(8875611672).freaky(plr.Name)
-print("contrast time")
-print("enjoying the fog?")
+print("make plr.Name your username if you care for the script")
+print("DONE!!")
